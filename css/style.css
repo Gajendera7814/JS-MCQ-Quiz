@@ -61,28 +61,6 @@ input{
     background-color: #74b9ff;
     margin-top: 4rem; 
     cursor: pointer;
-
-}
-/*  use skip button */
-#skip,
-.btn {
-    width: 130px;
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 1rem 3rem;
-    outline: none;
-    font-size: 2rem;
-    font-size: 400;
-    /* display: grid; */
-    place-content: center;
-    text-transform: uppercase;
-    color: #fff;
-    background-color: #74b9ff;
-    margin-top: 4rem; 
-    cursor: pointer;
-
 }
 .container,.ctn{
     display: flex;  
